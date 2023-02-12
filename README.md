@@ -9,7 +9,7 @@
 
 📱 Optimize code to improve the responsiveness of the applications and create the best user experience for users.  
 
-😇 I am always open to learning more and continuously practicing to become a better engineer, which will greatly benefit my career
+😇 I am always open to learning more and continuously practicing to become a better engineer, which will greatly benefit my career.
 
 <p align="center">
   <b>"SAFE CODE IS GREAT CODE"</b>
