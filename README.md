@@ -1,12 +1,13 @@
 <p align="center">
   <b>👋 My full name is Hoang Quang Bao</b>
 </p>
+<hr>
 
-👨🏼‍💻  am currently using the Swift programming language in my current job.  
+👨🏼‍💻 I am using the Swift programming language in my current job.  
 
-⌨️ My aim is to write clear code that makes it easy for members of my iOS team to understand and optimize.  
+✍🏼 My aim is to write clear code that makes it easy for members of my iOS team to understand and optimize.  
 
-📱 This helps to improve the responsiveness of the applications and create the best user experience for users.  
+📱 Optimize code to improve the responsiveness of the applications and create the best user experience for users.  
 
 😇 I am always open to learning more and continuously practicing to become a better engineer, which will greatly benefit my career
 
