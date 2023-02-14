@@ -1,19 +1,19 @@
 <p align="center">
-  <b>👋 My full name is Hoang Quang Bao</b>
+  <b>Hi there, I'm Bao 👋</b>
 </p>
-<hr>
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-quang-bao-12516297/)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13942594/bao)
 
 👨🏼‍💻 I am using the Swift programming language in my current job.  
 
-✍🏼 My aim is to write clear code that makes it easy for members of my iOS team to understand and optimize.  
+😇 I am always open to learning more and continuously practicing to become a better engineer.  
 
-📱 Optimize code to improve the responsiveness of the applications and create the best user experience for users.  
+<b>"SAFE CODE IS GREAT CODE"</b>
 
-😇 I am always open to learning more and continuously practicing to become a better engineer, which will greatly benefit my career.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuong291&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800)](https://github.com/hoangquangbao)
 
-<p align="center">
-  <b>"SAFE CODE IS GREAT CODE"</b>
-</p>
+<hr>
 
 <!--
 **hoangquangbao/hoangquangbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
