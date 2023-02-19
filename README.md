@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 [![hoangquangbao's github stats](https://github-readme-stats.vercel.app/api?username=hoangquangbao&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/hoangquangbao)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangquangbao" alt="hoangquangbao" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hoangquangbao)](https://git.io/streak-stats)
 
 ### Visitor count
 <p align="center">
