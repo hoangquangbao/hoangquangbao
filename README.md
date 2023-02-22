@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ----
 
-![github contribution grid snake animation](dist/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](dist/github-user-contribution.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
