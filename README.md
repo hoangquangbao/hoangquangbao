@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-[![hoangquangbao's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hoangquangbao&bg_color=ffffff&color=000000&line=FB8C01&point=24292e&area=true&area_color=FB8C01&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hoangquangbao's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hoangquangbao&bg_color=ffffff&color=000000&line=008E00&point=008E00&area=true&area_color=00F900&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
