@@ -62,6 +62,3 @@ Here are some ideas to get you started:
 <!--📰RSS / TAKE IMAGE FROM https://github.com/hoangquangbao/hoangquangbao/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/hoangquangbao/hoangquangbao/main/images/marquee.svg">
-
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/hoangquangbao/hoangquangbao/main/images/footer.svg" width="100%">
