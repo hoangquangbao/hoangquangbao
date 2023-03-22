@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 <img width="500" src="https://raw.githubusercontent.com/hoangquangbao/hoangquangbao/main/images/pngegg.png" />
 <h2 align="center">Hi there, I'm Bao 👋</h2>
 </p>
