@@ -7,18 +7,18 @@
 <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
 </tr>
 
-### Contact me
+### Connect me
 
  [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-quang-bao-12516297/)
  [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13942594/bao)
  [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangquangbao@gmail.com)
 
-
+<!--
 👨🏼‍💻 I am using the Swift programming language in my current job.  
 
 😇 I am always open to learning more and continuously practicing to become a better engineer.  
 
-<!--
+
 **hoangquangbao/hoangquangbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ### Github Stats
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangquangbao&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/hoangquangbao)
-
- [![hoangquangbao's github stats](https://github-readme-stats-git-totalvalues-test-rickstaa.vercel.app/api?username=hoangquangbao&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24&icon_color=000000)](https://github.com/hoangquangbao)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100">
-
+<!--
+ [![hoangquangbao's github stats](https://github-readme-stats.vercel.app/api?username=hoangquangbao&include_all_commits=true&&hide=contribs&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24&icon_color=000000)](https://github.com/hoangquangbao)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="100">
+-->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hoangquangbao)](https://git.io/streak-stats)
 
 ### Visitor count
