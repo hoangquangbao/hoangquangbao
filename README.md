@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
  [![hoangquangbao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoangquangbao&bg_color=ffffff&color=000000&line=008E00&point=008E00&area=true&area_color=00F900&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/hoangquangbao/hoangquangbao/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS / TAKE IMAGE FROM https://github.com/hoangquangbao/hoangquangbao/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT
 <p align="center">
 <img src="https://raw.githubusercontent.com/hoangquangbao/hoangquangbao/main/images/marquee.svg" width="600" >
+-->
