@@ -1,6 +1,6 @@
 <p>
 <img width="500" src="https://raw.githubusercontent.com/hoangquangbao/hoangquangbao/main/images/pngegg.png" />
-<h1 align="center">👋 Hi there, I'm Bao</h1>
+<!-- <h1 align="center">👋 Hi there, I'm Bao</h1> -->
 </p>
 
 <tr>
